@@ -11,7 +11,7 @@
 
  Sample output:
 
- Bad Grandpa             http://www.imdb.com/title/tt3063516/     7.1 
+``` Bad Grandpa             http://www.imdb.com/title/tt3063516/     7.1 
 
  Gravity                 http://www.imdb.com/title/tt1454468/     8.6 
 
@@ -30,7 +30,7 @@
  Prisoners               http://www.imdb.com/title/tt1392214/     8.1 
 
  ▄██▁▁▁▄█▄█
-
+```
 ## Install
 
    Just copy 'top-movie-ratings' file to your a directory specified in your $PATH.
