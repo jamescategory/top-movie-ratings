@@ -10,8 +10,8 @@
  If you don't want the spark, just remove the '| spark' from end of the script.
 
  Sample output:
-
-``` Bad Grandpa             http://www.imdb.com/title/tt3063516/     7.1 
+```sh
+ Bad Grandpa             http://www.imdb.com/title/tt3063516/     7.1 
 
  Gravity                 http://www.imdb.com/title/tt1454468/     8.6 
 
