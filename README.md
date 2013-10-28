@@ -1,10 +1,10 @@
-# top_movie_ratings
+# top-movie-ratings
 
 ## Summary 
 
- Visualize IMDB ratings of most recent top box office movies
+ Visualize IMDB ratings of most recent top box office movies.
 
- A one-liner that dislay the IMDB ratings of recent box office movies and visualize them using Spark
+ A one-liner that dislay the IMDB ratings of recent box office movies and visualize them using Spark.
 
  holman's spark must be installed to show a nice ▄██▁▁▁▄█▄█ in the output.
  If you don't want the spark, just remove the '| spark' from end of the script.
@@ -25,10 +25,11 @@
 ```
 ## Install
 
-   Just copy 'top-movie-ratings' file to your a directory specified in your $PATH.
+   Just copy 'top-movie-ratings' file to a directory specified in your $PATH.
    e.g. :
+```sh
    cp ./top-movie-ratings ~/bin
-   
+```
 
 ## Usage
 
@@ -37,5 +38,6 @@
 ```
 ## About
 
-This is James Abtahi (@jamescategory)
+This is James Abtahi (@jamescategory).
+
 [github] https://github.com/jamescategory
