@@ -12,14 +12,23 @@
  Sample output:
 
  Bad Grandpa             http://www.imdb.com/title/tt3063516/     7.1 
+
  Gravity                 http://www.imdb.com/title/tt1454468/     8.6 
+
  Captain Phillips        http://www.imdb.com/title/tt1535109/     8.1 
+
  The Counselor           http://www.imdb.com/title/tt2193215/     6.2 
+
  Carrie                  http://www.imdb.com/title/tt1939659/     6.4 
+
  Escape Plan             http://www.imdb.com/title/tt1211956/     7.3 
+
  12 Years a Slave        http://www.imdb.com/title/tt2024544/     8.2 
+
  Enough Said             http://www.imdb.com/title/tt2390361/     7.5 
+
  Prisoners               http://www.imdb.com/title/tt1392214/     8.1 
+
  ▄██▁▁▁▄█▄█
 
 ## Install
